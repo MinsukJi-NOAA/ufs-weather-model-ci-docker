@@ -13,3 +13,4 @@
   - esmf 8.0.0 (/usr/local/)
 
   - ncep libararies release/public-v1 (/usr/local/NCEPlibs/)
+- Image can be downloaded from: https://hub.docker.com/r/minsukjinoaa/ufs-weather-model-ci-docker
